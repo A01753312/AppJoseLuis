@@ -1,12 +1,10 @@
-streamlit==1.38.0
-pandas==2.2.2
-openpyxl==3.1.5
-
-google-auth==2.34.0
-google-auth-oauthlib==1.2.1
-google-auth-httplib2==0.2.0
-google-api-python-client==2.151.0
-
-msal==1.31.0
-requests==2.32.3
+streamlit
+pandas
+openpyxl
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+msal
+requests
 
